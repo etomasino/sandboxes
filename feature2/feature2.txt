@@ -1,1 +1,2 @@
 do something for feature 2
+hotfix1
