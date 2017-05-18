@@ -1,1 +1,2 @@
-feature4
+deprecated feature4
+feature4 hyper plus 2000
